@@ -7,3 +7,6 @@
 [submodule ".config/tmux"]
 	path = .config/tmux
 	url = git@github.com:illia-shkroba/tmux-config.git
+[submodule ".config/tmux-powerline"]
+	path = .config/tmux-powerline
+	url = git@github.com:illia-shkroba/tmux-powerline-config.git
