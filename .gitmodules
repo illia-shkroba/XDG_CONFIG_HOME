@@ -19,3 +19,6 @@
 [submodule ".config/st"]
 	path = st
 	url = git@github.com:illia-shkroba/st-config.git
+[submodule "npm"]
+	path = npm
+	url = git@github.com:illia-shkroba/npm-config.git
