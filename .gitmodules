@@ -22,3 +22,6 @@
 [submodule "npm"]
 	path = npm
 	url = git@github.com:illia-shkroba/npm-config.git
+[submodule "python"]
+	path = python
+	url = git@github.com:illia-shkroba/python-config.git
