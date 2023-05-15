@@ -13,3 +13,6 @@
 [submodule ".config/xmonad"]
 	path = .config/xmonad
 	url = git@github.com:illia-shkroba/xmonad-config.git
+[submodule ".config/xmobar"]
+	path = .config/xmobar
+	url = git@github.com:illia-shkroba/xmobar-config.git
