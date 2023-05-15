@@ -1,21 +1,21 @@
 [submodule ".config/zsh"]
-	path = .config/zsh
+	path = zsh
 	url = git@github.com:illia-shkroba/zsh-config.git
 [submodule ".config/nvim"]
-	path = .config/nvim
+	path = nvim
 	url = git@github.com:illia-shkroba/neovim-config.git
 [submodule ".config/tmux"]
-	path = .config/tmux
+	path = tmux
 	url = git@github.com:illia-shkroba/tmux-config.git
 [submodule ".config/tmux-powerline"]
-	path = .config/tmux-powerline
+	path = tmux-powerline
 	url = git@github.com:illia-shkroba/tmux-powerline-config.git
 [submodule ".config/xmonad"]
-	path = .config/xmonad
+	path = xmonad
 	url = git@github.com:illia-shkroba/xmonad-config.git
 [submodule ".config/xmobar"]
-	path = .config/xmobar
+	path = xmobar
 	url = git@github.com:illia-shkroba/xmobar-config.git
 [submodule ".config/st"]
-	path = .config/st
+	path = st
 	url = git@github.com:illia-shkroba/st-config.git
