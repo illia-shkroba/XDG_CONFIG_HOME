@@ -16,3 +16,6 @@
 [submodule ".config/xmobar"]
 	path = .config/xmobar
 	url = git@github.com:illia-shkroba/xmobar-config.git
+[submodule ".config/st"]
+	path = .config/st
+	url = git@github.com:illia-shkroba/st-config.git
