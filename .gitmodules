@@ -10,3 +10,6 @@
 [submodule ".config/tmux-powerline"]
 	path = .config/tmux-powerline
 	url = git@github.com:illia-shkroba/tmux-powerline-config.git
+[submodule ".config/xmonad"]
+	path = .config/xmonad
+	url = git@github.com:illia-shkroba/xmonad-config.git
