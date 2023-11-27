@@ -28,3 +28,6 @@
 [submodule "X11"]
 	path = X11
 	url = git@github.com:illia-shkroba/X11-config.git
+[submodule "qutebrowser"]
+	path = qutebrowser
+	url = git@github.com:illia-shkroba/qutebrowser-config.git
