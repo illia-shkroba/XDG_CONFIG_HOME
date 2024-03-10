@@ -31,3 +31,6 @@
 [submodule "qutebrowser"]
 	path = qutebrowser
 	url = git@github.com:illia-shkroba/qutebrowser-config.git
+[submodule "mpv"]
+	path = mpv
+	url = git@github.com:illia-shkroba/mpv-config.git
