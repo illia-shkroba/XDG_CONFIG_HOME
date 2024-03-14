@@ -34,3 +34,6 @@
 [submodule "mpv"]
 	path = mpv
 	url = git@github.com:illia-shkroba/mpv-config.git
+[submodule "git"]
+	path = git
+	url = git@github.com:illia-shkroba/git-config.git
