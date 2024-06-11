@@ -37,3 +37,6 @@
 [submodule "git"]
 	path = git
 	url = git@github.com:illia-shkroba/git-config.git
+[submodule "stack"]
+	path = stack
+	url = git@github.com:illia-shkroba/stack-config.git
