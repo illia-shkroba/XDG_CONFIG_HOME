@@ -7,9 +7,6 @@
 [submodule "tmux"]
 	path = tmux
 	url = git@github.com:illia-shkroba/tmux-config.git
-[submodule "tmux-powerline"]
-	path = tmux-powerline
-	url = git@github.com:illia-shkroba/tmux-powerline-config.git
 [submodule "xmonad"]
 	path = xmonad
 	url = git@github.com:illia-shkroba/xmonad-config.git
