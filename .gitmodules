@@ -43,3 +43,6 @@
 [submodule "ncmpcpp"]
 	path = ncmpcpp
 	url = git@github.com:illia-shkroba/ncmpcpp-config.git
+[submodule "zathura"]
+	path = zathura
+	url = git@github.com:illia-shkroba/zathura-config.git
