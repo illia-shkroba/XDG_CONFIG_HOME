@@ -37,3 +37,6 @@
 [submodule "stack"]
 	path = stack
 	url = git@github.com:illia-shkroba/stack-config.git
+[submodule "mpd"]
+	path = mpd
+	url = git@github.com:illia-shkroba/mpd-config.git
