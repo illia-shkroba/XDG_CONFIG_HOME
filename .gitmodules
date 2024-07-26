@@ -40,3 +40,6 @@
 [submodule "mpd"]
 	path = mpd
 	url = git@github.com:illia-shkroba/mpd-config.git
+[submodule "ncmpcpp"]
+	path = ncmpcpp
+	url = git@github.com:illia-shkroba/ncmpcpp-config.git
