@@ -46,3 +46,6 @@
 [submodule "zathura"]
 	path = zathura
 	url = git@github.com:illia-shkroba/zathura-config.git
+[submodule "picom"]
+	path = picom
+	url = git@github.com:illia-shkroba/picom-config.git
