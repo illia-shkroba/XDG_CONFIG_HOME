@@ -49,3 +49,6 @@
 [submodule "picom"]
 	path = picom
 	url = git@github.com:illia-shkroba/picom-config.git
+[submodule "fastfetch"]
+	path = fastfetch
+	url = git@github.com:illia-shkroba/fastfetch-config.git
