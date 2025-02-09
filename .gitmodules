@@ -52,3 +52,6 @@
 [submodule "fastfetch"]
 	path = fastfetch
 	url = git@github.com:illia-shkroba/fastfetch-config.git
+[submodule "starship"]
+	path = starship
+	url = git@github.com:illia-shkroba/starship-config.git
