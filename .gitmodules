@@ -55,3 +55,6 @@
 [submodule "starship"]
 	path = starship
 	url = git@github.com:illia-shkroba/starship-config.git
+[submodule "btop"]
+	path = btop
+	url = git@github.com:illia-shkroba/btop-config.git
