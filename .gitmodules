@@ -58,3 +58,6 @@
 [submodule "btop"]
 	path = btop
 	url = git@github.com:illia-shkroba/btop-config.git
+[submodule "atuin"]
+	path = atuin
+	url = git@github.com:illia-shkroba/atuin-config.git
