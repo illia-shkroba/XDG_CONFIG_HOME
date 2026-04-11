@@ -61,3 +61,6 @@
 [submodule "atuin"]
 	path = atuin
 	url = git@github.com:illia-shkroba/atuin-config.git
+[submodule "opencode"]
+	path = opencode
+	url = git@github.com:illia-shkroba/opencode-config.git
