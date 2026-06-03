@@ -64,3 +64,6 @@
 [submodule "opencode"]
 	path = opencode
 	url = git@github.com:illia-shkroba/opencode-config.git
+[submodule "ghostty"]
+	path = ghostty
+	url = git@github.com:illia-shkroba/ghostty-config.git
